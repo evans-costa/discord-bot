@@ -45,7 +45,7 @@ DISCORD_TOKEN = XXXXXXXXXX.XXXXXXX.XXXXXXXXXXXXXXXXXXXX
 DISCORD_GUILD_ID =  XXXXXXXXXXXXXXXXXX
 ```
 > **Note**
-> To create a discord bot and set up the commands, [follow this guide](https://discordjs.guide/#before-you-begin).
+> To create a discord bot and set up to your discord server, [follow this guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot).
 
 ```bash
 # Install dependencies
