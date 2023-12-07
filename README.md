@@ -3,7 +3,7 @@
    QR Code Generator
   <br>
 </h1>
-<h4 align="center">A simple QR Code generator discord bot made with <a href="https://discord.js.org/" target="_blank">Node.js module discord.js</a></h4>
+<h4 align="center">A simple QR Code generator discord bot made with Node.js module <a href="https://discord.js.org/" target="_blank">discord.js</a> and <a href="https://developers.google.com/chart/infographics/docs/qr_codes" target="_blank">Google API</a></h4>  
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
